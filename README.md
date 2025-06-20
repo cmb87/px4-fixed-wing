@@ -1,6 +1,6 @@
 # Fixed Wing Aircraft with PX4 
 
-Needs to be sorted. Collection of various thing to make this UAV fly.
+Needs to be sorted. Collection of various thing to make this UAV fly. First version was with ArduPilot. New version is based on PX4.
 
 ![alt image](./IMG_20240908_120648.jpeg)
 
